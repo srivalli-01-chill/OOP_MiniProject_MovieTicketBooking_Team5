@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "14754317396",
+    "project_id": "saicharan-d9174",
+    "storage_bucket": "saicharan-d9174.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14754317396:android:549267b05ba5d4f32599c1",
+        "android_client_info": {
+          "package_name": "com.team17.movieticketteam5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14754317396-rm6imld5e53acilan4cu3mmc03ibts9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzfkn6KRnPcweawgxUftXQe8UirecpAxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14754317396-rm6imld5e53acilan4cu3mmc03ibts9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14754317396:android:8f26d4f49686690f2599c1",
+        "android_client_info": {
+          "package_name": "com.team5.moviebooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14754317396-rm6imld5e53acilan4cu3mmc03ibts9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzfkn6KRnPcweawgxUftXQe8UirecpAxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14754317396-rm6imld5e53acilan4cu3mmc03ibts9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

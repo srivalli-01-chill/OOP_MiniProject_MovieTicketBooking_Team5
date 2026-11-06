@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MovieTicketTeam5"
+        parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorAccent">#B42240</item>
+    </style>
+</resources>
